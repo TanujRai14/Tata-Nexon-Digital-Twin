@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Te_18.1",
+    "signal": "Te",
+    "signal_label": "Torque",
+    "start": 18.05,
+    "end": 20.5,
+    "type_id": 1,
+    "type_name": "Spoof",
+    "max_sev": 58.97
+  },
+  {
+    "id": "Iq_25.4",
+    "signal": "Iq",
+    "signal_label": "Iq Current",
+    "start": 25.35,
+    "end": 27.5,
+    "type_id": 2,
+    "type_name": "Replay",
+    "max_sev": 30.03
+  },
+  {
+    "id": "Vdc_33.1",
+    "signal": "Vdc",
+    "signal_label": "DC Voltage",
+    "start": 33.05,
+    "end": 35.0,
+    "type_id": 3,
+    "type_name": "DoS",
+    "max_sev": 360.08
+  },
+  {
+    "id": "Te_45.1",
+    "signal": "Te",
+    "signal_label": "Torque",
+    "start": 45.05,
+    "end": 47.0,
+    "type_id": 4,
+    "type_name": "Data Corruption",
+    "max_sev": 22.63
+  },
+  {
+    "id": "Te_50.0",
+    "signal": "Te",
+    "signal_label": "Torque",
+    "start": 50.05,
+    "end": 51.5,
+    "type_id": 3,
+    "type_name": "DoS",
+    "max_sev": 73.63
+  },
+  {
+    "id": "Iq_60.0",
+    "signal": "Iq",
+    "signal_label": "Iq Current",
+    "start": 60.0,
+    "end": 62.0,
+    "type_id": 3,
+    "type_name": "DoS",
+    "max_sev": 965.39
+  },
+  {
+    "id": "Vdc_72.0",
+    "signal": "Vdc",
+    "signal_label": "DC Voltage",
+    "start": 72.05,
+    "end": 74.5,
+    "type_id": 1,
+    "type_name": "Spoof",
+    "max_sev": 49.7
+  },
+  {
+    "id": "Iq_80.0",
+    "signal": "Iq",
+    "signal_label": "Iq Current",
+    "start": 80.05,
+    "end": 82.0,
+    "type_id": 4,
+    "type_name": "Data Corruption",
+    "max_sev": 24.42
+  },
+  {
+    "id": "Vdc_88.2",
+    "signal": "Vdc",
+    "signal_label": "DC Voltage",
+    "start": 88.2,
+    "end": 88.25,
+    "type_id": 2,
+    "type_name": "Replay",
+    "max_sev": 6.93
+  },
+  {
+    "id": "Vdc_88.6",
+    "signal": "Vdc",
+    "signal_label": "DC Voltage",
+    "start": 88.6,
+    "end": 90.0,
+    "type_id": 2,
+    "type_name": "Replay",
+    "max_sev": 41.65
+  }
+]
